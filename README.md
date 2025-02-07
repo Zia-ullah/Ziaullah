@@ -7,12 +7,14 @@ To be relocated in EU countries
 ### Languages:
 (HTML,CSS,JavaScript), C/C++, Java, Python, PHP, T-SQL
 ### Servers:
-MySQLServer, Microsoft SQL Server, Team Foundation Server, XAMPP, WAMPP, 
+MySQLServer, Microsoft SQL Server,  XAMPP, WAMPP, 
+### Version Control
+Git, GitHub, Team Foundation Server, SVN
 ### CI/CD
-Git, GitHub, GitHub Actions, Jenkins
+GitHub Actions, Jenkins
 ### Test Automation:
 Playwright, testRigor, Cypress, Cucumber, Selenium/TestNG, Test Complete, BrowserStack
-### Management:
+### Project Management:
 Jira, TestRail, ClickUp
 ### Mobile:
 Android, iOS
@@ -23,4 +25,4 @@ REST API, Postman, GraphQL
 ### Performance
 JMeter
 ### Anallysys:
- agile, Scrum Master, UML
+Agile, Scrum Master, UML
